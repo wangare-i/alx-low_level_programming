@@ -5,7 +5,7 @@
  * main - Entry point
  *
  * Description: 'the program's description'
- * @parameter: describe the parameter
+ * @parameter: describe the
  *
  * Return: Always 0 (Success)
  */
