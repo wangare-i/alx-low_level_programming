@@ -28,13 +28,3 @@ int *array_range(int min, int max)
 
 	return (ptr);
 }
-
-
-
-
-
-
-
-
-100-realloc.c
-
